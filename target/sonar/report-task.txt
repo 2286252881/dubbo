@@ -1,0 +1,5 @@
+projectKey=dubbo:dubbo
+serverUrl=http://192.168.14.128:9090/sonarqube
+dashboardUrl=http://192.168.14.128:9090/sonarqube/dashboard/index/dubbo:dubbo
+ceTaskId=AVh7k1AMcbKrqa3WIarA
+ceTaskUrl=http://192.168.14.128:9090/sonarqube/api/ce/task?id=AVh7k1AMcbKrqa3WIarA
